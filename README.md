@@ -17,4 +17,4 @@ Lesson11_part1.ipynb - YOLO algorithm
 
 UtahAutoCrashClustersHDBSCAN10.png - HDBSCAN minimum 10 points per cluster
 
-UtahAutoCrashClustersHDBSCAN3.png - HDBSCAN mininum 3 points per cluseter 
+UtahAutoCrashClustersHDBSCAN3.png - HDBSCAN mininum 3 points per cluster 
